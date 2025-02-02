@@ -42,10 +42,10 @@
 ## **💵 Pricing**  
 
 - **One-Time Purchase**: [$150 via GitHub Sponsors.](https://github.com/sponsors/Prem-ium/sponsorships?tier_id=463064)
-- **GitHub Gold Sponsors** enrolled for last 3+ months are eligible to receive a [**$10 discount**](https://github.com/sponsors/Prem-ium/sponsorships?amount=140&frequency=one-time).
+- **GitHub Gold Sponsors** enrolled for last 5+ months are eligible to receive a [**$50 discount**](https://github.com/sponsors/Prem-ium/sponsorships?amount=100&frequency=one-time).
 - **Custom quotes** available for Zelle payments or limited brokerage support. [Contact for details (**serious inquiries only**)](mailto:premium.github@gmail.com).
 
-Given the nature of the software, refunds will not be offered. Please ensure compatiability with your system. Keep in mind, this application only supports Windows users. Only Gold sponsors who have been consecutively sponsoring for 3+ months are eligible for discount. 
+Given the nature of the software, refunds will not be offered. Please ensure compatiability with your system. Keep in mind, this application only supports Windows users. Only Gold sponsors who have been consecutively sponsoring for 5+ months are eligible for full discount, otherwise members can get a [**$20 discount if concurrently sponsoring for 3+ months**](https://github.com/sponsors/Prem-ium/sponsorships?amount=130&frequency=one-time)
 
 ---
 ## **🧑‍💻 Who Is This For?**
