@@ -14,8 +14,12 @@
 ## **🎥 Demo Video**
 <video src="https://github.com/user-attachments/assets/d87c5c93-c09c-4c41-a1c3-a0d248784b95" controls="controls" style="max-width: 100%; height: auto;">
     Your browser does not support video tags.
-    https://github.com/user-attachments/assets/d87c5c93-c09c-4c41-a1c3-a0d248784b95
+    <a href="https://github.com/user-attachments/assets/d87c5c93-c09c-4c41-a1c3-a0d248784b95">Click to open Video URL.</a>
+    <img src="https://github.com/user-attachments/assets/032a35e1-0c39-41e1-ac49-04bf2855e006">
+    <img src="https://github.com/user-attachments/assets/8def144e-60ab-4cb4-aff8-50ded76b5f04">
+    <img src="https://github.com/user-attachments/assets/2aa095e0-c37d-425d-8fae-b96e394c55b4">
 </video>
+
 
 ---
 ## **🚀 Features/Perks**
@@ -41,11 +45,14 @@
 ---  
 ## **💵 Pricing**  
 
-- **One-Time Purchase**: [$150 via GitHub Sponsors.](https://github.com/sponsors/Prem-ium/sponsorships?tier_id=463064)
-- **GitHub Gold Sponsors** enrolled for last 5+ months are eligible to receive a [**$50 discount**](https://github.com/sponsors/Prem-ium/sponsorships?amount=100&frequency=one-time).
-- **Custom quotes** available for Zelle payments or limited brokerage support. [Contact for details (**serious inquiries only**)](mailto:premium.github@gmail.com).
+- **One-Time Purchase**: [$150 via GitHub Sponsors.](https://github.com/sponsors/Prem-ium/sponsorships?tier_id=463064)  
+- **Gold Sponsors Discounts**:  
+  - **$50 off** for **5+ months** of consecutive sponsorship. [Claim](https://github.com/sponsors/Prem-ium/sponsorships?amount=100&frequency=one-time).  
+  - **$20 off** for **3+ months** of consecutive sponsorship. [Claim](https://github.com/sponsors/Prem-ium/sponsorships?amount=130&frequency=one-time).  
+- **Custom Quotes**: Available for Zelle payments or limited brokerage support. [Contact](mailto:premium.github@gmail.com) (**serious inquiries only**).  
 
-Given the nature of the software, refunds will not be offered. Please ensure compatiability with your system. Keep in mind, this application only supports Windows users. Only Gold sponsors who have been consecutively sponsoring for 5+ months are eligible for full discount, otherwise members can get a [**$20 discount if concurrently sponsoring for 3+ months**](https://github.com/sponsors/Prem-ium/sponsorships?amount=130&frequency=one-time)
+
+⚠️ **No refunds** due to the nature of the software. Ensure compatibility—this application **only supports Windows**.  
 
 ---
 ## **🧑‍💻 Who Is This For?**
