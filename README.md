@@ -45,7 +45,7 @@
 
 ---  
 ## **💵 Pricing**  
-
+Notice of delay: Orders will be unable to be fufilled 02/18/25-03/03/25. 
 - **One-Time Purchase**: [$150 via GitHub Sponsors.](https://github.com/sponsors/Prem-ium/sponsorships?tier_id=463064)  
 - **Gold Sponsors Discounts**:  
   - **$50 off** for **5+ months** of consecutive sponsorship. [Claim](https://github.com/sponsors/Prem-ium/sponsorships?amount=100&frequency=one-time).  
