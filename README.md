@@ -11,6 +11,41 @@
 </p>
 
 ---
+
+## 🚀 Features & Perks  
+
+### 🏦 Supported Brokerages  
+This project automates the extraction and consolidation of **realized gain/loss data** from 1099 tax forms across multiple brokerages, including:  
+
+- **Fidelity**  
+- **Charles Schwab**  
+- **Firstrade**  
+- **J.P. Morgan Invest (Chase)**  
+- **Robinhood**  
+- **TastyTrade**  
+- **Vanguard**  
+- **WellsTrade**
+
+  -  <img src="https://github.com/user-attachments/assets/8def144e-60ab-4cb4-aff8-50ded76b5f04" alt="Supported Stock Brokerages for 1099 Tax Consolidation" width="600">
+
+### 📁 Consolidated Realized Gains/Losses  
+Automatically extracts **taxable realized gains/losses** from multiple **1099 tax PDFs**, including multiple accounts from the same brokerage. Each brokerage's data is first consolidated into a **single CSV**, then merged into a **master summary** detailing short- and long-term realized gains across all brokerages—ensuring streamlined tax reporting.  
+  - <img src="https://github.com/user-attachments/assets/80e45c76-9afb-4bd2-8023-ef07abc25ffc" alt="Example of a consolidated realized gains CSV output" width="600">
+
+### 📊 Data Visualization  
+Gain insights into your taxable earnings with **interactive charts** that break down realized gains by brokerage.  
+- **Bar graphs** and **pie charts** display your earnings distribution across financial institutions.  
+
+  - <img src="https://github.com/user-attachments/assets/85020a83-1559-478c-9c4d-755427a9b67c" alt="Taxable earnings breakdown bar graph and pie chart" width="600">
+
+### 📜 PDF & CSV Viewer  
+Enhance data verification with **built-in viewing tools**:  
+- **📄 Smart PDF Navigation** – Automatically detects and opens the **most relevant page** of the 1099 form containing the **Realized Gains Summary**, based on the brokerage's format. This should allow users to easily verify everything was correctly parsed from the PDF. 
+- **🖊️ Row Highlighting for CSVs** – Improve readability with **bold & highlighted** rows when double-clicking entries, making data validation effortless.  
+
+  - <img src="https://github.com/user-attachments/assets/c789c7ac-29c5-49f2-b93f-58b7b2f175c3" alt="Highlighted CSV row for easier verification" width="600">
+
+---
 ## **🎥 Demo Video**
 <video src="https://github.com/user-attachments/assets/d87c5c93-c09c-4c41-a1c3-a0d248784b95" controls="controls" style="max-width: 100%; height: auto;">
     Your browser does not support video tags.
@@ -21,39 +56,32 @@
     <img src="https://github.com/user-attachments/assets/2aa095e0-c37d-425d-8fae-b96e394c55b4">
 </video>
 
-
 ---
-## **🚀 Features/Perks**
 
-- Supports **Fidelity, Schwab, Vanguard, JP Morgan/Chase, TastyTrade, Firstrade**, with more *Apex Clearing* brokerages coming soon (Fennel, Public, Webull)!
-- Converts Realized Gain/Loss Data from multiple 1099 PDFs into a **single CSV**.
-- **Data Analysis & Visualization** 📊: Interactive charts for taxable earnings & realized gains breakdown by brokerage (Bar Graph/Pie Chart).
-- **PDF & CSV Viewer** 📜:
-  - Dynamic Page Handling: Dyanmically opens the PDF page most likely to host the 1099-Realized Summary page of your 1099 Tax Form based on the brokerage.
-  - Row Highlighting: Allows for increase readability, double selecting a row from a CSV viewer bolds and highlights text--making it even easier to verify the numbers. 
-
----
 ## **📋 How to Use**  
 
-1. **Obtain a license** – See [Pricing](#💵-Pricing).  
-2. **Get access** – After purchase, you'll receive an invite to the private repository within 48 hours. Accept the invite to proceed.  
-3. **Install the app** – Visit the private repository, download the latest TaxMerge installer, and install the app.  
-4. **Set up & authenticate** – Follow the README instructions in the private repository to configure your application.  
-5. **Prepare your files** – Place your 1099 PDFs in the appropriate subfolders.  
-6. **Start processing** – Click **"START"** to begin extraction and processing.  
-7. **Review your data** – Use the built-in CSV/PDF viewer to check the consolidated results.  
+1. **Purchase a license** – See [Pricing](#Pricing) for details.  
+2. **Gain access** – After purchase, an invitation to the private repository will be sent to your **GitHub email** within **48 hours**. Accept the invite to proceed.  
+3. **Download & install** – Visit the private repository and download the latest **TaxMerge** installer from the **Releases** section.  
+4. **Configure & authenticate** – Follow the setup instructions in the private repository's README to complete the configuration.  
 
 ---  
-## **💵 Pricing**  
-Notice of delay: Orders will be unable to be fufilled 02/18/25-03/03/25. 
-- **One-Time Purchase**: [$150 via GitHub Sponsors.](https://github.com/sponsors/Prem-ium/sponsorships?tier_id=463064)  
-- **Gold Sponsors Discounts**:  
-  - **$50 off** for **5+ months** of consecutive sponsorship. [Claim](https://github.com/sponsors/Prem-ium/sponsorships?amount=100&frequency=one-time).  
-  - **$20 off** for **3+ months** of consecutive sponsorship. [Claim](https://github.com/sponsors/Prem-ium/sponsorships?amount=130&frequency=one-time).  
-- **Custom Quotes**: Available for Zelle payments or limited brokerage support. [Contact](mailto:premium.github@gmail.com) (**serious inquiries only**).  
 
+💵 ## **Pricing**  
 
-⚠️ **No refunds** due to the nature of the software. Ensure compatibility—this application **only supports Windows**.  
+📢 **Notice of Delay**: Orders will not be fulfilled between **02/18/25 – 03/03/25** as I will be out of the country. Invites will resume on **03/04/25**.  
+
+### **Pricing Options**  
+
+- **💰 Discounted Quotes** – Users paying via **Zelle** can receive a **discounted invitation**. Additionally, users can customize which features/brokerages they need support for, potentially excluding unnecessary ones for further discounts. If interested, [contact me via email](mailto:premium.github@gmail.com) (**serious inquiries only**).  
+
+- **🔑 One-Time Purchase** – Full access to all features for [$150 via GitHub Sponsors](https://github.com/sponsors/Prem-ium/sponsorships?tier_id=463064).  
+
+- **🏅 Gold Sponsor Discounts** – Available for **consecutive** GitHub sponsorships:  
+  - **3+ months**: [$20 off ($130)](https://github.com/sponsors/Prem-ium/sponsorships?amount=130&frequency=one-time).  
+  - **5+ months**: [$40 off ($110)](https://github.com/sponsors/Prem-ium/sponsorships?amount=110&frequency=one-time).  
+
+⚠️ **No refunds** due to the nature of the software. Ensure compatibility before purchase—this application **only supports Windows**. **Project and bug support are available.**  
 
 ---
 ## **🧑‍💻 Who Is This For?**
