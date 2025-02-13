@@ -79,7 +79,7 @@ Enhance data verification with **built-in viewing tools**:
 
 - **🏅 Gold Sponsor Discounts** – Available for **consecutive** GitHub sponsorships:  
   - **3+ months**: [$20 off ($130)](https://github.com/sponsors/Prem-ium/sponsorships?amount=130&frequency=one-time).  
-  - **5+ months**: [$40 off ($110)](https://github.com/sponsors/Prem-ium/sponsorships?amount=110&frequency=one-time).  
+  - **6+ months**: [$50 off ($100)](https://github.com/sponsors/Prem-ium/sponsorships?amount=100&frequency=one-time).  
 
 ⚠️ **No refunds** due to the nature of the software. Ensure compatibility before purchase—this application **only supports Windows**. **Project and bug support are available.**  
 
