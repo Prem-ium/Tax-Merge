@@ -50,10 +50,6 @@ Enhance data verification with **built-in viewing tools**:
 <video src="https://github.com/user-attachments/assets/d87c5c93-c09c-4c41-a1c3-a0d248784b95" controls="controls" style="max-width: 100%; height: auto;">
     Your browser does not support video tags.
     <a href="https://github.com/user-attachments/assets/d87c5c93-c09c-4c41-a1c3-a0d248784b95">Click to open Video URL.</a>
-    Images:
-    <img src="https://github.com/user-attachments/assets/032a35e1-0c39-41e1-ac49-04bf2855e006">
-    <img src="https://github.com/user-attachments/assets/8def144e-60ab-4cb4-aff8-50ded76b5f04">
-    <img src="https://github.com/user-attachments/assets/2aa095e0-c37d-425d-8fae-b96e394c55b4">
 </video>
 
 ---
