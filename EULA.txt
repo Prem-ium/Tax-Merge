@@ -1,110 +1,107 @@
 End User License Agreement (EULA)
 
-This End User License Agreement ("Agreement") is a legal agreement between you, the end user (“User”), and the software creator (“Licensor” or "we"), Prem-ium, for the software product known as TaxMerge (the "Software").
+This End User License Agreement ("Agreement") is a legal agreement between you, the end user ("User"), and the software creator ("Licensor" or "we"), Prem-ium, for the software product known as TaxMerge (the "Software").
 
 1. License Grant  
 Licensor grants the User a non-exclusive, non-transferable, limited, revocable license to install and use the Software, subject to the terms and conditions set forth in this Agreement. The User does not acquire any ownership rights in the Software.
 
 2. Permitted Use  
-The Software is licensed for personal, non-commercial use only. The User may not use the Software for any other purpose without the explicit written permission of the Licensor. Unauthorized commercial use includes, but is not limited to, reselling, leasing, or using the Software as part of a service provided to third parties.
+The Software is licensed for personal, non-commercial use only. The User may not use the Software for any other purpose without the explicit written consent of the Licensor. Unauthorized commercial use includes, but is not limited to, reselling, leasing, or using the Software as part of a service provided to third parties.
 
 3. Restrictions  
-You may not sell, distribute, transmit, host, or otherwise commercially exploit the Software. You may not copy, modify, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software. You may not share, sublicense, or distribute the Software or any part of it without the Licensor's explicit permission. You may not use the Software in any way that violates applicable laws, regulations, or third-party rights, including but not limited to intellectual property rights. You may not re-sell, re-distribute, or otherwise make the Software or its installer available to any third party in any form.
+You may not sell, distribute, transmit, host, or otherwise commercially exploit the Software. You may not copy, modify, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software. You may not share, sublicense, or distribute the Software or any part of it without the Licensor's explicit consent. You may not use the Software in any way that violates applicable laws, regulations, or third-party rights, including, but not limited to, intellectual property rights. You may not re-sell, re-distribute, or make the Software or its installer available to any third party in any form.
 
 4. No Refunds  
-All sales are final. The Licensor does not offer refunds for any reason. By purchasing and using the Software, you acknowledge that you will not be entitled to a refund, regardless of the circumstances.
+All sales are final. The Licensor does not offer refunds for any reason. By purchasing and using the Software, you acknowledge that you are not entitled to a refund, regardless of the circumstances.
 
 5. No Warranty  
-The Software is provided "as-is" without any warranties of any kind, either express or implied. The Licensor makes no representations or warranties regarding the accuracy, reliability, or completeness of the Software. The Licensor does not guarantee that the Software will be error-free or function without interruptions. By using the Software, you acknowledge that it may contain bugs or errors, and the Licensor is not responsible for any consequences arising from its use, including but not limited to tax-related issues, financial losses, or other damages. It is your sole responsibility to verify the correctness of all data using the PDF/CSV features before making any decisions based on the Software's output, including tax filings.
+The Software is provided "as-is" without warranties of any kind, either express or implied. The Licensor makes no representations or warranties regarding the accuracy, reliability, or completeness of the Software. The Licensor does not guarantee that the Software will be error-free or function without interruptions. By using the Software, you acknowledge that it may contain bugs or errors, and the Licensor is not responsible for any consequences arising from its use, including but not limited to tax-related issues, financial losses, or other damages. It is your responsibility to verify the correctness of all data using the PDF/CSV features before making decisions based on the Software's output, including tax filings.
 
 6. Limitation of Liability  
-To the fullest extent permitted by applicable law, the Licensor shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising out of or in connection with your use or inability to use the Software, whether in an action of contract, tort, or otherwise, even if the Licensor has been advised of the possibility of such damages. This includes, without limitation, damages for loss of profits, business interruption, or loss of information or data. The Licensor’s total liability under this Agreement shall not exceed the amount paid by the User for the Software, if any.
+To the fullest extent permitted by law, the Licensor shall not be liable for any direct, indirect, incidental, special, consequential, or punitive damages arising from your use or inability to use the Software, even if the Licensor has been advised of the possibility of such damages. This includes, but is not limited to, damages for loss of profits, business interruption, or loss of data. The Licensor’s total liability under this Agreement shall not exceed the amount paid by the User for the Software.
 
 7. Updates and Maintenance  
-The Licensor may, at its sole discretion, provide updates, patches, or modifications to the Software. However, the Licensor is not obligated to provide any such updates and makes no representations or warranties regarding the availability of updates. The Licensor may discontinue support for the Software at any time without notice.
+The Licensor may, at its sole discretion, provide updates or modifications to the Software. However, the Licensor is not obligated to provide any updates and makes no guarantees regarding their availability. The Licensor may discontinue support for the Software at any time without notice.
 
 8. Termination  
-The Licensor may terminate this license immediately if the User fails to comply with any provision of this Agreement. Upon termination, you must immediately cease using the Software and destroy all copies of the Software in your possession. The termination of this Agreement will not affect any rights or obligations that have accrued prior to such termination.
+The Licensor may terminate any license immediately if a breach of this Agreement is suspected. If the User fails to comply with any provision of this Agreement, the Licensor may terminate the license. Upon termination, the User must cease using the Software and destroy all copies in their possession. Termination will not affect rights or obligations that have accrued before such termination.
 
 9. Governing Law and Dispute Resolution  
-This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor resides. Any disputes arising under or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts in that jurisdiction. In the event of a dispute, the parties agree to attempt to resolve the matter through informal negotiations. If such negotiations fail, the dispute shall be resolved by binding arbitration in accordance with the rules of the American Arbitration Association.
+This Agreement shall be governed by the laws of the jurisdiction in which the Licensor resides. Any disputes arising under or in connection with this Agreement shall be subject to the exclusive jurisdiction of the courts in that jurisdiction. Disputes shall be resolved by binding arbitration per the rules of the American Arbitration Association if informal negotiations fail.
 
 10. Data Privacy  
-The Licensor does not collect personal data through the Software unless explicitly stated. By using the Software, you consent to the collection of certain data necessary for the functioning of the Software, including but not limited to error reports, performance data, and other technical information. This data may include, but is not limited to, device information, operating system details, IP addresses, and usage metrics. The purpose of collecting this data is to ensure proper functionality, improve the software, and prevent unauthorized use or piracy of the Software. The Licensor will not share or sell this data to third parties except as required by law, or as necessary for software maintenance or to enforce the Licensor’s rights related to piracy prevention. The data collected will be stored securely and will only be used to track the usage and license of the Software to prevent unauthorized access.
+The Licensor does not collect personal data from tax forms. However, by using the Software, you consent to the collection of certain data necessary for its functioning, such as device information, operating system details, IP addresses, usage metrics, and system-generated identifiers. The Licensor will not sell or share this data with third parties except as required by law or for software maintenance or security.
 
 11. Indemnification  
-You agree to indemnify, defend, and hold harmless the Licensor, its affiliates, employees, agents, and contractors from and against any claims, losses, damages, liabilities, or expenses (including reasonable attorneys' fees) arising out of or in connection with your use of the Software or any violation of this Agreement.
+You agree to indemnify, defend, and hold harmless the Licensor, its affiliates, employees, agents, and contractors from any claims, losses, damages, or expenses (including legal fees) arising from your use of the Software or violation of this Agreement.
 
 12. Severability  
-If any provision of this Agreement is found to be unlawful, void, or unenforceable, the remaining provisions will remain in full effect. The unlawful or unenforceable provision will be replaced with a valid provision that reflects the intent of the original provision.
+If any provision of this Agreement is found to be unlawful or unenforceable, the remaining provisions will remain in effect. The invalid provision will be replaced with one that reflects the intent of the original provision.
 
-13. Entire Agreement  
-This Agreement constitutes the entire agreement between the User and the Licensor regarding the Software. It supersedes all prior or contemporaneous communications, whether electronic, oral, or written, between the User and the Licensor.
+13. Tax Filing Disclaimers  
+The Software is intended for managing and consolidating tax-related data, but it is not a substitute for professional tax advice. The Licensor does not offer any tax, legal, or financial advice and does not guarantee that tax filings or data generated by the Software are accurate. The User is responsible for ensuring compliance with applicable laws and is encouraged to consult with a certified tax professional.
 
-14. Tax Filing Disclaimers  
-The Software is intended to assist in managing and consolidating tax-related data; however, it is not a substitute for professional tax advice. The Licensor does not offer any tax, legal, or financial advice and does not guarantee that any tax filings or tax data generated by the Software are correct or complete. The User is solely responsible for ensuring that all tax filings are accurate and comply with applicable tax laws and regulations. The Licensor strongly recommends that the User consult with a certified tax professional before making any decisions based on the output of the Software.
+14. Third-Party Content  
+The Software may display or link to third-party content. The Licensor is not responsible for the accuracy, legality, or consequences of using third-party content and disclaims all liability related to such content.
 
-15. Third-Party Content  
-The Software may display or link to content provided by third parties, such as tax forms, data, or external services. The Licensor does not control or endorse this third-party content and is not responsible for its accuracy, legality, or any consequences arising from its use. You acknowledge that any reliance on third-party content is at your own risk.
+15. Tax Liability and Compliance  
+You are solely responsible for complying with all tax laws and regulations. The Licensor makes no guarantees regarding the Software's ability to ensure compliance with tax laws and will not be liable for any tax liabilities or penalties resulting from your use of the Software.
 
-16. Tax Liability and Compliance  
-By using the Software, you acknowledge that you are solely responsible for complying with all applicable tax laws and regulations. The Licensor makes no representation or warranty that the Software will ensure compliance with tax laws or regulations in any jurisdiction. The Licensor will not be held responsible for any tax liabilities, fines, penalties, or other legal consequences resulting from your use of the Software.
+16. Security  
+While the Licensor takes reasonable security measures, it does not guarantee that the Software is free from vulnerabilities. You are responsible for securing sensitive personal or financial data. The Licensor is not responsible for any security breaches or unauthorized access to your data.
 
-17. Security  
-While the Licensor makes reasonable efforts to ensure the security of the Software, it does not guarantee that the Software is free from vulnerabilities. You are responsible for implementing your own security measures to protect sensitive personal or financial data. The Licensor is not responsible for any security breaches, data breaches, or unauthorized access to your data.
+17. Acknowledgment of Experimental Nature  
+The Software is provided as a beta or experimental product and may contain defects. By using the Software, you accept that it may not work as expected, and the Licensor has no obligation to improve or continue it.
 
-18. Acknowledgment of Experimental Nature  
-The Software is provided as a beta or experimental product and may contain errors, defects, or incomplete features. By using the Software, you acknowledge and accept that the Software is not fully tested or validated and may not work as expected. The Licensor makes no commitment to improve or complete the Software and may discontinue it at any time without notice or liability.
+18. No Support Obligation  
+The Licensor is not obligated to provide customer support, except at its discretion. Any support provided is voluntary and not a commitment for future support.
 
-19. No Support Obligation  
-The Licensor is not obligated to provide any form of customer support, whether technical or otherwise, except at its sole discretion. The User agrees that any support or assistance provided by the Licensor is done voluntarily and does not constitute an ongoing commitment to provide support.
+19. Unsolicited Feedback  
+Any feedback or suggestions provided by the User shall be the sole property of the Licensor. The User grants the Licensor a royalty-free license to use, modify, or incorporate such Feedback into the Software without compensation.
 
-20. Unsolicited Feedback  
-Any feedback, suggestions, or other contributions you provide regarding the Software, including but not limited to bug reports, feature requests, and general comments (collectively “Feedback”), shall be the sole property of the Licensor. The User agrees to grant the Licensor an irrevocable, royalty-free license to use, modify, and incorporate such Feedback into the Software without any compensation or acknowledgment.
+20. No Access to Source Code  
+You agree not to attempt to access the source code of the Software. Unauthorized access may result in legal action.
 
-21. No Access to Source Code  
-You agree not to attempt to gain access to the source code of the Software or reverse engineer any portion of it. The Software is protected by intellectual property laws, and any unauthorized access or tampering with the source code may result in legal action.
+21. Unlawful Use  
+The User agrees not to use the Software for unlawful activities or in violation of others' rights. The Licensor may terminate the license if the Software is used illegally.
 
-22. Unlawful Use  
-The User shall not use the Software in connection with any unlawful activity or in any way that violates the rights of others, including intellectual property rights, privacy rights, or other legal rights. The Licensor reserves the right to immediately terminate the license if the Software is used in any way that violates the law or the terms of this Agreement.
+22. Changes to Terms  
+The Licensor may modify this Agreement at any time. Changes will be posted on the Licensor’s website or within the Software. By continuing to use the Software, you agree to the updated terms.
 
-23. Changes to Terms  
-The Licensor reserves the right to modify the terms of this Agreement at any time without notice. Any changes will be posted on the Licensor’s website or within the Software. By continuing to use the Software after such modifications, you agree to be bound by the updated terms. It is your responsibility to review the Agreement periodically to stay informed of any changes.
+23. Third-Party Licenses  
+The Software may include third-party components. The User agrees to comply with the terms of third-party licenses and acknowledges that the Licensor is not responsible for third-party software.
 
-24. Third-Party Licenses  
-The Software may include or rely on third-party software components or libraries that are subject to separate license agreements. The User agrees to comply with the terms of any such third-party licenses and acknowledges that the Licensor is not responsible for any third-party software or its functionality.
+24. No Transfer of License  
+The User may not transfer, assign, or sublicense their rights under this Agreement without written consent from the Licensor.
 
-25. No Transfer of License  
-The User may not assign, sublicense, or transfer their rights under this Agreement to any other party without the express written consent of the Licensor. Any attempt to do so will be void and result in immediate termination of the license.
+25. Monitoring and Compliance  
+The Licensor may monitor usage to ensure compliance with this Agreement and may suspend or terminate access if a violation is detected.
 
-26. Monitoring and Compliance  
-The Licensor reserves the right to monitor usage of the Software to ensure compliance with the terms of this Agreement. The Licensor may, at its sole discretion, suspend or terminate your access to the Software if it believes, in its sole judgment, that you have violated any of the terms or conditions outlined in this Agreement.
+26. Force Majeure  
+The Licensor is not liable for any failure in performance due to circumstances beyond its control, including acts of God, war, or government action.
 
-27. Force Majeure  
-The Licensor shall not be liable for any failure or delay in the performance of any obligation under this Agreement due to circumstances beyond its reasonable control, including but not limited to acts of God, war, terrorism, strikes, or government actions. The Licensor's obligations will be suspended for the duration of the event preventing performance.
+27. No Legal or Financial Advice  
+The Software does not provide legal, tax, or financial advice. The Licensor is not responsible for ensuring that the Software complies with applicable laws. The User is encouraged to consult with a professional before making decisions based on the Software.
 
-28. No Legal or Financial Advice  
-The Software does not provide legal, tax, or financial advice. The Licensor does not guarantee that the Software's output is accurate or in compliance with applicable laws, including tax laws. The User is solely responsible for ensuring that their use of the Software complies with all relevant legal or regulatory requirements, and the Licensor strongly recommends consulting with a qualified professional before making any legal or financial decisions based on the Software.
+28. Export Control Laws  
+You agree to comply with all applicable export control laws. The Software may not be exported to restricted countries or individuals.
 
-29. Export Control Laws  
-You agree to comply with all applicable export control laws and regulations. The Software may not be exported or re-exported to any countries, entities, or individuals prohibited by the laws of the jurisdiction in which the Licensor resides. You warrant that you are not subject to any export restrictions and will not use or distribute the Software in violation of such laws.
+29. No Assignment of Rights  
+The User agrees not to assign or transfer their rights under this Agreement without prior written consent from the Licensor.
 
-30. No Assignment of Rights  
-The User agrees not to assign, transfer, or sublicense their rights or obligations under this Agreement to any third party without the prior written consent of the Licensor. Any attempt to do so without consent is void and will result in the immediate termination of this Agreement.
+30. Protection of Intellectual Property  
+The User acknowledges that all rights to the Software, including intellectual property rights, remain with the Licensor.
 
-31. Protection of Intellectual Property  
-The User acknowledges that all rights, titles, and interests in and to the Software, including all intellectual property rights, remain the sole property of the Licensor. This Agreement does not grant the User any rights in or to the Software except as expressly stated herein.
+31. Survival of Provisions  
+The provisions of this Agreement that should survive termination, such as liability limitations, indemnification, and intellectual property protections, shall remain in effect.
 
-32. Survival of Provisions  
-The provisions of this Agreement that by their nature should survive termination, including but not limited to limitations on liability, indemnification, and intellectual property protections, shall survive the termination of this Agreement.
+32. No Partnership or Agency  
+Nothing in this Agreement creates a partnership, agency, or employment relationship between the Licensor and the User.
 
-33. No Partnership or Agency  
-Nothing in this Agreement creates any joint venture, partnership, agency, or employment relationship between the Licensor and the User. The User has no authority to act on behalf of the Licensor or to bind the Licensor in any way.
+33. Publicity  
+The User agrees not to use the Licensor’s name, trademark, or any identifying feature without prior written consent.
 
-34. Publicity  
-The User agrees not to use the name, trademark, or any other identifying feature of the Licensor without prior written consent. The User also agrees not to make any public statements or create any publicity regarding the Software without obtaining the Licensor's express permission.
+34. Integration with Other Software or Services  
+The Software may interact with third-party services. The Licensor is not responsible for their functionality or security.
 
-35. Integration with Other Software or Services  
-The Software may integrate or interact with third-party services, applications, or software. The Licensor does not control or endorse these third-party services and is not responsible for their functionality, accuracy, or security. The User is responsible for ensuring compatibility and compliance when using such integrations.
-
-BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS AGREEMENT AND AGREE TO BE BOUND BY ITS TERMS AND CONDITIONS. YOU UNDERSTAND THAT THE SOFTWARE IS EXPERIMENTAL AND AGREE TO VERIFY THE ACCURACY OF ALL DATA BEFORE MAKING ANY DECISIONS BASED ON IT.
+BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS AGREEMENT AND AGREE TO BE BOUND BY ITS TERMS. YOU UNDERSTAND THE SOFTWARE IS EXPERIMENTAL AND AGREE IT IS YOUR RESPONSIBILITY TO VERIFY THE ACCURACY OF ALL DATA OUTPUTTED BY THE SOFTWARE BEFORE MAKING ANY DECISIONS BASED ON IT.
