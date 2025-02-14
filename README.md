@@ -16,15 +16,21 @@
 
 ### 🏦 Supported Brokerages  
 This project automates the extraction and consolidation of **realized gain/loss data** from 1099 tax forms across multiple brokerages, including:  
-
+Basic Version:
 - **Fidelity**  
 - **Charles Schwab**  
-- **Firstrade**  
 - **J.P. Morgan Invest (Chase)**  
-- **Robinhood**  
-- **TastyTrade**  
 - **Vanguard**  
 - **WellsTrade**
+
+Pro Version (Includes Apex Clearing Brokerages):
+- All brokerages from Basic version
+- **Fennel**
+- **TastyTrade**
+- **Tradier**
+- **Firstrade**
+- **Robinhood**
+- **Public**
 
   -  <img src="https://github.com/user-attachments/assets/8def144e-60ab-4cb4-aff8-50ded76b5f04" alt="Supported Stock Brokerages for 1099 Tax Consolidation" width="600">
 
@@ -64,20 +70,19 @@ Enhance data verification with **built-in viewing tools**:
 ---  
 
 ## **Pricing**  
-
-📢 **Notice of Delay**: Orders will not be fulfilled between **02/18/25 – 03/03/25** as I will be out of the country. Invites will resume on **03/04/25**.  
-
 ### **Pricing Options**  
 
 - **💰 Discounted Quotes** – Users paying via **Zelle** can receive a **discounted invitation**. Additionally, users can customize which features/brokerages they need support for, potentially excluding unnecessary ones for further discounts. If interested, [contact me via email](mailto:premium.github@gmail.com) (**serious inquiries only**).  
 
-- **🔑 One-Time Purchase** – Full access to all features for [$150 via GitHub Sponsors](https://github.com/sponsors/Prem-ium/sponsorships?tier_id=463064).  
+- **🔑 One-Time Purchase** – There are different pricing for 'Basic' and 'Pro' version of this project. The basic version ($100, [Basic Version Pricing](https://github.com/login?return_to=%2Fsponsors%2FPrem-ium%2Fsponsorships%3Ftier_id%3D466171)) supports only 'Fidelity, Chase, Vanguard, Wellstrade, Schwab'-- while the Pro version ($120, [Pro Version Pricing](https://github.com/login?return_to=%2Fsponsors%2FPrem-ium%2Fsponsorships%3Ftier_id%3D466173)) supports additional brokerages with Apex Clearing (Fennel, Robinhood, Public, Firstrade, etc.)
 
 - **🏅 Gold Sponsor Discounts** – Available for **consecutive** GitHub sponsorships:  
-  - **3+ months**: [$20 off ($130)](https://github.com/sponsors/Prem-ium/sponsorships?amount=130&frequency=one-time).  
-  - **6+ months**: [$50 off ($100)](https://github.com/sponsors/Prem-ium/sponsorships?amount=100&frequency=one-time).  
+  - **3+ months**: $10 off
+  - **6+ months**: $40 off
+    
+📢 **Notice of Delay**: Orders will not be fulfilled between **02/18/25 – 03/03/25** as I will be out of the country. Invites will resume on **03/04/25**.  
 
-⚠️ **No refunds** due to the nature of the software. Ensure compatibility before purchase—this application **only supports Windows**. **Project and bug support are available.**  
+⚠️ **No refunds** due to the nature of the software. Ensure compatibility before purchase—this application **only supports Windows**. **Project and bug support are available.**
 
 ---
 ## **🧑‍💻 Who Is This For?**
