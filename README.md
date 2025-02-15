@@ -32,7 +32,7 @@ Pro Version (Includes Apex Clearing Brokerages):
 - **Robinhood**
 - **Public**
 
-  -  <img src="https://github.com/user-attachments/assets/8def144e-60ab-4cb4-aff8-50ded76b5f04" alt="Supported Stock Brokerages for 1099 Tax Consolidation" width="600">
+  -  <img src="https://github.com/user-attachments/assets/e84a4fdc-dbd7-495d-8070-0a0e9dc7b915" alt="Supported Stock Brokerages for 1099 Tax Consolidation" width="600">
 
 ### 📁 Consolidated Realized Gains/Losses  
 Automatically extracts **taxable realized gains/losses** from multiple **1099 tax PDFs**, including multiple accounts from the same brokerage. Each brokerage's data is first consolidated into a **single CSV**, then merged into a **master summary** detailing short- and long-term realized gains across all brokerages—ensuring streamlined tax reporting.  
