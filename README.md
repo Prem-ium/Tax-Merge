@@ -22,6 +22,7 @@ Basic Version:
 - **J.P. Morgan Invest (Chase)**  
 - **Vanguard**  
 - **WellsTrade**
+  -  <img src="https://github.com/user-attachments/assets/bd94c209-971e-48ff-aab2-44749ca278c3" alt="Basic Stock Brokerages for 1099 Tax Consolidation" width="600"> 
 
 Pro Version (Includes Apex Clearing Brokerages):
 - All brokerages from Basic version
@@ -32,7 +33,7 @@ Pro Version (Includes Apex Clearing Brokerages):
 - **Robinhood**
 - **Public**
 
-  -  <img src="https://github.com/user-attachments/assets/e84a4fdc-dbd7-495d-8070-0a0e9dc7b915" alt="Supported Stock Brokerages for 1099 Tax Consolidation" width="600">
+  -  <img src="https://github.com/user-attachments/assets/e84a4fdc-dbd7-495d-8070-0a0e9dc7b915" alt="Pro Stock Brokerages for 1099 Tax Consolidation" width="600">
 
 ### 📁 Consolidated Realized Gains/Losses  
 Automatically extracts **taxable realized gains/losses** from multiple **1099 tax PDFs**, including multiple accounts from the same brokerage. Each brokerage's data is first consolidated into a **single CSV**, then merged into a **master summary** detailing short- and long-term realized gains across all brokerages—ensuring streamlined tax reporting.  
