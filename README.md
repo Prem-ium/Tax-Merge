@@ -81,8 +81,6 @@ Enhance data verification with **built-in viewing tools**:
   - **3+ months**: $10 off
   - **6+ months**: $40 off
     
-📢 **Notice of Delay**: Orders will not be fulfilled between **02/18/25 – 03/03/25** as I will be out of the country. Invites will resume on **03/04/25**.  
-
 ⚠️ **No refunds** due to the nature of the software. Ensure compatibility before purchase—this application **only supports Windows**. **Project and bug support are available.**
 
 ---
