@@ -32,12 +32,13 @@ Pro Version (Includes Apex Clearing Brokerages):
 - **Firstrade**
 - **Robinhood**
 - **Public**
+- **WeBull**
 
-  -  <img src="https://github.com/user-attachments/assets/e84a4fdc-dbd7-495d-8070-0a0e9dc7b915" alt="Pro Stock Brokerages for 1099 Tax Consolidation" width="600">
+  -  <img src="https://github.com/user-attachments/assets/1bce26c4-3eae-4231-a451-d1330a1849ea" alt="Pro Stock Brokerages for 1099 Tax Consolidation" width="600">
 
 ### 📁 Consolidated Realized Gains/Losses  
 Automatically extracts **taxable realized gains/losses** from multiple **1099 tax PDFs**, including multiple accounts from the same brokerage. Each brokerage's data is first consolidated into a **single CSV**, then merged into a **master summary** detailing short- and long-term realized gains across all brokerages—ensuring streamlined tax reporting.  
-  - <img src="https://github.com/user-attachments/assets/80e45c76-9afb-4bd2-8023-ef07abc25ffc" alt="Example of a consolidated realized gains CSV output" width="600">
+  - <img src="https://github.com/user-attachments/assets/df255433-3b6f-4c34-8a15-cc9ff93adefa" alt="Example of a consolidated realized gains CSV output" width="600">
 
 ### 📊 Data Visualization  
 Gain insights into your taxable earnings with **interactive charts** that break down realized gains by brokerage.  
