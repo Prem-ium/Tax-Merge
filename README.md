@@ -72,17 +72,17 @@ Enhance data verification with **built-in viewing tools**:
 ---  
 
 ## **Pricing**  
-### **Pricing Options**  
+### **Available Options**
 
-- **💰 Discounted Quotes** – Users paying via **Zelle** can receive a **discounted invitation**. Additionally, users can customize which features/brokerages they need support for, potentially excluding unnecessary ones for further discounts. If interested, [contact me via email](mailto:premium.github@gmail.com) (**serious inquiries only**).  
+- **💰 Discounted Quotes** – Receive a **custom discounted offer** when paying via **Zelle**. Users can also request support for only the specific brokerages/features they need, potentially lowering costs further by excluding unnecessary ones. For inquiries, [contact me via email](mailto:premium.github@gmail.com) (**serious inquiries only**).
 
-- **🔑 One-Time Purchase** – There are different pricing for 'Basic' and 'Pro' version of this project. The basic version ($100, [Basic Version Pricing](https://github.com/login?return_to=%2Fsponsors%2FPrem-ium%2Fsponsorships%3Ftier_id%3D466171)) supports only 'Fidelity, Chase, Vanguard, Wellstrade, Schwab'-- while the Pro version ($120, [Pro Version Pricing](https://github.com/login?return_to=%2Fsponsors%2FPrem-ium%2Fsponsorships%3Ftier_id%3D466173)) supports additional brokerages with Apex Clearing (Fennel, Robinhood, Public, Firstrade, etc.)
+- **🔑 One-Time Purchase** – Two pricing tiers are available:
+  - **Basic Version – $79**: Supports **Fidelity, Chase, Vanguard, WellsTrade, Schwab**. [Purchase Basic Version](https://github.com/sponsors/Prem-ium/sponsorships?sponsor=Prem-ium&tier_id=474503&preview=false)
+  - **Pro Version – $99**: Includes everything in Basic, plus additional brokerages with **Apex Clearing** (e.g., Fennel, Robinhood, Public, Firstrade, etc.). [Purchase Pro Version](https://github.com/sponsors/Prem-ium/sponsorships?sponsor=Prem-ium&tier_id=474504&preview=false)
 
-- **🏅 Gold Sponsor Discounts** – Available for **consecutive** GitHub sponsorships:  
-  - **3+ months**: $10 off
-  - **6+ months**: $40 off
-    
-⚠️ **No refunds** due to the nature of the software. Ensure compatibility before purchase—this application **only supports Windows**. **Project and bug support are available.**
+- **🏅 Gold Sponsor Loyalty Discounts** – Special discounts for **consecutive GitHub sponsorships**:
+  - **4+ months**: $20 off  
+  - **8+ months**: $40 off 
 
 ---
 ## **🧑‍💻 Who Is This For?**
